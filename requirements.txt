@@ -13,3 +13,10 @@ fastapi
 uvicorn
 requests
 langchain_huggingface
+
+
+# The below libraries if local_model.py doesnt run
+transformers
+torch
+torchvision
+torchaudio
