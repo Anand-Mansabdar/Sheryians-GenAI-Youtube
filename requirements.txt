@@ -13,6 +13,7 @@ fastapi
 uvicorn
 requests
 langchain_huggingface
+streamlit
 
 
 # The below libraries if local_model.py doesnt run
