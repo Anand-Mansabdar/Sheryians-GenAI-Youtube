@@ -14,6 +14,7 @@ uvicorn
 requests
 langchain_huggingface
 streamlit
+pydantic
 
 
 # The below libraries if local_model.py doesnt run
